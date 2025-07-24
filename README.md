@@ -37,7 +37,7 @@ Easily upload, view, download, and delete files through a clean dashboard UI.
 
 | Dashboard | Upload & Manage Files |
 |-----------|------------------------|
-| ![Dashboard Screenshot](https://via.placeholder.com/600x300?text=Dashboard+Preview) | ![Upload Screenshot](https://via.placeholder.com/600x300?text=Upload+Preview) |
+| ![Dashboard Screenshot](screenshots/dashboard.png) | ![profile Screenshot](screenshots/profile.png) | ![profile Screenshot](screenshots/history.png) 
 
 ---
 
