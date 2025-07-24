@@ -35,9 +35,9 @@ Easily upload, view, download, and delete files through a clean dashboard UI.
 
 ## 📸 Screenshots
 
-| Dashboard | Upload & Manage Files |
-|-----------|------------------------|
-| ![Dashboard Screenshot](screenshots/dashboard.png) | ![profile Screenshot](screenshots/profile.png) | ![profile Screenshot](screenshots/history.png) 
+| Dashboard | Profile | History |
+|-----------|---------|---------|
+| ![Dashboard Screenshot](screenshots/dashboard.png) | ![Profile Screenshot](screenshots/profile.png) | ![History Screenshot](screenshots/history.png) |
 
 ---
 
